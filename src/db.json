@@ -1,1 +1,22 @@
-
+{
+    "student_details" : [
+        {
+            "id":"1",
+            "name" : "XYZ"
+        },
+        {
+            "id":"2",
+            "name" : "QXY"
+        }
+    ],
+    "emp_details" : [
+        {
+            "id":"12",
+            "name":"QWERTY"
+        },
+        {
+            "id":"13",
+            "name":"ASDFG"
+        }
+    ]
+}
